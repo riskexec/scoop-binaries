@@ -24,7 +24,7 @@ The binary is referenced in `bucket/redisinsight.json`:
 
 ```json
 {
-  "url": "https://bitbucket.org/riskexec/scoop-binaries/raw/main/redis-insight/2.70.1/Redis-Insight-win-installer-2.70.1.exe",
+  "url": "https://bitbucket.org/riskexec-inc/scoop-binaries/raw/main/redis-insight/2.70.1/Redis-Insight-win-installer-2.70.1.exe",
   "hash": "2469d275e93faa6d1af0338265cf60cfe44b2f63dcedd73f9fae798189692df4"
 }
 ```

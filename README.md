@@ -72,7 +72,7 @@ Update SDE bucket manifests to reference the stable URLs:
 
 ```json
 {
-  "url": "https://bitbucket.org/riskexec/scoop-binaries/raw/main/<tool>/<version>/<artifact>",
+  "url": "https://bitbucket.org/riskexec-inc/scoop-binaries/raw/main/<tool>/<version>/<artifact>",
   "hash": "<sha256-hash>"
 }
 ```
@@ -81,7 +81,7 @@ Update SDE bucket manifests to reference the stable URLs:
 
 ### URL Pattern
 ```
-https://bitbucket.org/riskexec/scoop-binaries/raw/main/<tool>/<version>/<artifact>
+https://bitbucket.org/riskexec-inc/scoop-binaries/raw/main/<tool>/<version>/<artifact>
 ```
 
 ### Version Synchronization
@@ -94,7 +94,7 @@ Keep these in sync across manifest updates:
 ```json
 {
   "version": "2.70.1",
-  "url": "https://bitbucket.org/riskexec/scoop-binaries/raw/main/redis-insight/2.70.1/Redis-Insight-win-installer-2.70.1.exe",
+  "url": "https://bitbucket.org/riskexec-inc/scoop-binaries/raw/main/redis-insight/2.70.1/Redis-Insight-win-installer-2.70.1.exe",
   "hash": "1a2b3c4d5e6f7890abcdef1234567890abcdef1234567890abcdef1234567890"
 }
 ```
